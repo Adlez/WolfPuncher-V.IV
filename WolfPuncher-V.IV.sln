@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WolfPuncher-V.IV.CSharp.Plugins", "WolfPuncher-V.IV.CSharp.Plugins.csproj", "{40F1A398-2673-BFC3-4EF6-46DD0F696315}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WolfPuncher-V.IV.CSharp", "WolfPuncher-V.IV.CSharp.csproj", "{ED1F56BB-2DE1-CD66-77B0-4EAD40C272C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40F1A398-2673-BFC3-4EF6-46DD0F696315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40F1A398-2673-BFC3-4EF6-46DD0F696315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40F1A398-2673-BFC3-4EF6-46DD0F696315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40F1A398-2673-BFC3-4EF6-46DD0F696315}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED1F56BB-2DE1-CD66-77B0-4EAD40C272C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED1F56BB-2DE1-CD66-77B0-4EAD40C272C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED1F56BB-2DE1-CD66-77B0-4EAD40C272C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED1F56BB-2DE1-CD66-77B0-4EAD40C272C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
